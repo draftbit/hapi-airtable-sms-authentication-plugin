@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "airtable": "^0.5.9",
+    "boom": "^7.3.0",
+    "joi": "^14.3.1",
+    "twilio": "^3.29.2"
+  },
+  "name": "@draftbit/hapi-airtable-sms-authentication-plugin",
+  "description": "Plugin to add Twilio SMS authentication to a Hapi server using Airtable as a data store",
+  "version": "1.0.0",
+  "repository": "https://github.com/Preposterous/hapi-airtable-sms-authentication-plugin.git",
+  "main": "main.js",
+  "author": "Donald Hruska <donald@draftbit.com>",
+  "license": "MIT"
+}
